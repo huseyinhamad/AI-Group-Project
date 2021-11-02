@@ -8,6 +8,11 @@
 - Create your own virtual environment.
 - Run `pip install -r requirements.txt` to install the needed dependencies
 - Download the models and put them in the tool directory
+
+### Training the models
+- Download the models from link below and unzip it in the project directory   
+  `https://drive.google.com/file/d/15ibyWsbJskDcjZ9rC5zW4fMb1EvsffKf/view?usp=sharing`
+- Run the train.ipynb notebook 
 ### Testing the tool
 #### Using the test tool
 - Make sure you have completed the setup process
