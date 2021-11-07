@@ -13,6 +13,10 @@
 - Download the models from link below and unzip it in the project directory   
   `https://drive.google.com/drive/folders/1ujGJoNCp-ylTfJRrLcKcFAVc84Avw0KL?usp=sharing`
 - Run the train.ipynb notebook 
+
+### Testing the model
+- Run the test.pynb notebook
+
 ### Testing the tool
 #### Using the test tool
 - Make sure you have completed the setup process
